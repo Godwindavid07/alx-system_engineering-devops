@@ -1,1 +1,1 @@
-This command displays the contents of the current directory in long format and shows the user and group IDs as numerical values instead of their corresponding username and group name. It also displays information such as the permissions, number of links, size, and timestamps of each file and directory, and includes hidden files.
+a script that creates a directory named my_first_directory in the /tmp/ directory.
