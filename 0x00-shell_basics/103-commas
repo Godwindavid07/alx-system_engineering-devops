@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -A --format=commas | tr \n' *,/. .. \n'
+ls -pamv
