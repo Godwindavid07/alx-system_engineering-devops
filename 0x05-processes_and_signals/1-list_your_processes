@@ -1,2 +1,2 @@
-#!/bin/bash
-ps -e -o pid,user,comm,ppid,args --forest
+#!/usr/bin/env bash
+ps -faux
