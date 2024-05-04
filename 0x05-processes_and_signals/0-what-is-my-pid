@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "$$"
+# prints my process id
+echo $$
